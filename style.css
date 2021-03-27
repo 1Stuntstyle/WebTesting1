@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+h1 {
+  font-size: smaller;
+}
+
+#jestemDIv > p {
+  color: tomato;
+}
+
+#jestemDiv h1 {
+  color: turquoise;
+}
+
+#jestemDiv .klasa {
+  color: rgb(115, 6, 240);
+  font-size: larger;
+}
